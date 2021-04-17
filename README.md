@@ -1,18 +1,18 @@
-# Timeban
-Timeban for Minecraft Bedrock (Pocket) Edition. Only for PMMP (PocketMine)
+# Tempban
+Tempban for Minecraft Bedrock (Pocket) Edition. Only for PMMP (PocketMine)
 
-TimeBan is a function plugin for PMMP (PocketMine-MP).
-TimeBan is a ban with time (s - second, m - minute, h - hour)
+TempBan is a function plugin for PMMP (PocketMine-MP).
+TempBan is a ban with time (s - second, m - minute, h - hour)
 
 Command for use:
 
   In Game:
   
-    /tban <user> <time> <reason>
+    /tempban <user> <time> <reason>
   
   In Console:
   
-    tban <user> <time> <reason>
+    tempban <user> <time> <reason>
 
 
 Thank's for using my plugin!
